@@ -1,0 +1,16 @@
+.product {
+    display: flex;
+    text-align: left;
+}
+
+button {
+    background-color: goldenrod;
+    color: black;
+    padding: 5px 60px;
+    border: 2px solid goldenrod;
+    font-weight: 600;
+}
+.details {
+    margin-left: 30px;
+    margin-right: 10px;
+}

@@ -1,0 +1,15 @@
+.logo {
+    height: 50px;
+    text-align: center;
+}
+nav {
+    background-color: black;
+    line-height: 40px;
+    text-align: left;
+    padding-left: 30px;
+}
+nav a {
+    text-decoration: none;
+    color: White;
+    padding: 20px;
+}
